@@ -1,0 +1,92 @@
+[23576:20068:0718/112424.111:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.182 (not a warning)
+[23576:20068:0718/112424.248:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[23576:20068:0718/112424.271:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[34624:33468:0718/112424.385:INFO:cpu_info.cc(53)] Available number of cores: 16
+[35624:34564:0718/112424.397:INFO:cpu_info.cc(53)] Available number of cores: 16
+[34772:29700:0718/112424.878:INFO:cpu_info.cc(53)] Available number of cores: 16
+[30860:35916:0718/112424.937:INFO:cpu_info.cc(53)] Available number of cores: 16
+[36896:7868:0718/112426.537:INFO:cpu_info.cc(53)] Available number of cores: 16
+[23576:20068:0718/112433.996:INFO:CONSOLE(1)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://abs.twimg.com/fonts/v1/chirp-extended-heavy-web.woff2", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[23576:20068:0718/112433.997:INFO:CONSOLE(1)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://abs.twimg.com/responsive-web/client-web/Chirp-Bold.ebb56aba.woff2", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[23576:20068:0718/112433.997:INFO:CONSOLE(1)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://abs.twimg.com/responsive-web/client-web/Chirp-Regular.80fda27a.woff2", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[30860:39132:0718/112434.092:INFO:peer_connection_dependency_factory.cc(709)] Running WebRTC with a combined Network and Worker thread.
+[30860:39132:0718/112434.092:INFO:webrtc_voice_engine.cc(354)] WebRtcVoiceEngine::WebRtcVoiceEngine
+[30860:36272:0718/112434.092:INFO:webrtc_voice_engine.cc(376)] WebRtcVoiceEngine::Init
+[30860:36272:0718/112434.093:INFO:webrtc_voice_engine.cc(478)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[30860:36272:0718/112434.093:INFO:peer_connection_factory.cc(343)] Using default network controller factory
+[30860:36272:0718/112434.093:INFO:bitrate_prober.cc(47)] Bandwidth probing enabled, set to inactive
+[30860:36272:0718/112434.093:INFO:remote_estimator_proxy.cc(68)] Maximum interval between transport feedback RTCP messages: 250 ms
+[30860:36272:0718/112434.093:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
+[30860:36272:0718/112434.093:INFO:remote_bitrate_estimator_single_stream.cc(51)] RemoteBitrateEstimatorSingleStream: Instantiating.
+[30860:39132:0718/112435.279:WARNING:codec.cc(515)] Explicitly added H264 constrained baseline to list of supported formats.
+[30860:36272:0718/112435.279:INFO:openssl_key_pair.cc(40)] Making key pair
+[30860:36272:0718/112435.279:INFO:openssl_key_pair.cc(93)] Returning key pair
+[30860:36272:0718/112435.279:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
+[30860:36272:0718/112435.279:INFO:boringssl_certificate.cc(245)] Returning certificate
+[30860:39132:0718/112435.310:INFO:sdp_offer_answer.cc(2854)] Session: 1359205318499591407 Old state: stable New state: closed
+[23576:20068:0718/112436.222:INFO:CONSOLE(153)] "[GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment", source: https://accounts.google.com/gsi/client (153)
+[36780:33252:0718/112436.435:INFO:cpu_info.cc(53)] Available number of cores: 16
+[30860:39132:0718/112438.817:INFO:peer_connection_dependency_factory.cc(709)] Running WebRTC with a combined Network and Worker thread.
+[30860:39132:0718/112438.817:INFO:webrtc_voice_engine.cc(354)] WebRtcVoiceEngine::WebRtcVoiceEngine
+[30860:36272:0718/112438.817:INFO:webrtc_voice_engine.cc(376)] WebRtcVoiceEngine::Init
+[30860:36272:0718/112438.818:INFO:webrtc_voice_engine.cc(478)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[30860:36272:0718/112438.818:INFO:peer_connection_factory.cc(343)] Using default network controller factory
+[30860:36272:0718/112438.818:INFO:bitrate_prober.cc(47)] Bandwidth probing enabled, set to inactive
+[30860:36272:0718/112438.818:INFO:remote_estimator_proxy.cc(68)] Maximum interval between transport feedback RTCP messages: 250 ms
+[30860:36272:0718/112438.818:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
+[30860:36272:0718/112438.818:INFO:remote_bitrate_estimator_single_stream.cc(51)] RemoteBitrateEstimatorSingleStream: Instantiating.
+[30860:39132:0718/112438.819:WARNING:codec.cc(515)] Explicitly added H264 constrained baseline to list of supported formats.
+[30860:36272:0718/112438.819:INFO:openssl_key_pair.cc(40)] Making key pair
+[30860:36272:0718/112438.819:INFO:openssl_key_pair.cc(93)] Returning key pair
+[30860:36272:0718/112438.819:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
+[30860:36272:0718/112438.820:INFO:boringssl_certificate.cc(245)] Returning certificate
+[30860:39132:0718/112438.828:INFO:sdp_offer_answer.cc(2854)] Session: 8486606751739348516 Old state: stable New state: closed
+[23576:20068:0718/112438.991:INFO:CONSOLE(153)] "[GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment", source: https://accounts.google.com/gsi/client (153)
+[23576:20068:0718/112439.550:INFO:CONSOLE(1)] "Uncaught (in promise) Error: ApiError: https://api.x.com/1.1/onboarding/sso_init.json HTTP-401 codes:[32]", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[30860:39132:0718/112443.645:INFO:peer_connection_dependency_factory.cc(709)] Running WebRTC with a combined Network and Worker thread.
+[30860:39132:0718/112443.645:INFO:webrtc_voice_engine.cc(354)] WebRtcVoiceEngine::WebRtcVoiceEngine
+[30860:36272:0718/112443.645:INFO:webrtc_voice_engine.cc(376)] WebRtcVoiceEngine::Init
+[30860:36272:0718/112443.645:INFO:webrtc_voice_engine.cc(478)] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[30860:36272:0718/112443.645:INFO:peer_connection_factory.cc(343)] Using default network controller factory
+[30860:36272:0718/112443.645:INFO:bitrate_prober.cc(47)] Bandwidth probing enabled, set to inactive
+[30860:36272:0718/112443.645:INFO:remote_estimator_proxy.cc(68)] Maximum interval between transport feedback RTCP messages: 250 ms
+[30860:36272:0718/112443.645:INFO:aimd_rate_control.cc(87)] Using aimd rate control with back off factor 0.85
+[30860:36272:0718/112443.645:INFO:remote_bitrate_estimator_single_stream.cc(51)] RemoteBitrateEstimatorSingleStream: Instantiating.
+[30860:39132:0718/112443.645:WARNING:codec.cc(515)] Explicitly added H264 constrained baseline to list of supported formats.
+[30860:36272:0718/112443.646:INFO:openssl_key_pair.cc(40)] Making key pair
+[30860:36272:0718/112443.646:INFO:openssl_key_pair.cc(93)] Returning key pair
+[30860:36272:0718/112443.646:INFO:boringssl_certificate.cc(189)] Making certificate for WebRTC
+[30860:36272:0718/112443.646:INFO:boringssl_certificate.cc(245)] Returning certificate
+[30860:39132:0718/112443.651:INFO:sdp_offer_answer.cc(2854)] Session: 7325859559443919204 Old state: stable New state: closed
+[23576:20068:0718/112444.224:INFO:CONSOLE(1)] "Uncaught (in promise) Error: ApiError: https://api.x.com/1.1/account/settings.json HTTP-401 codes:[32]", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[30860:39132:0718/112444.434:INFO:peer_connection.cc(643)] Session: 1359205318499591407 is destroyed.
+[30860:36272:0718/112444.434:INFO:webrtc_voice_engine.cc(362)] WebRtcVoiceEngine::~WebRtcVoiceEngine
+[30860:36272:0718/112444.434:WARNING:webrtc_voice_engine.cc(683)] Attempting to stop aecdump when no audio processing module is present
+[30860:39132:0718/112444.434:INFO:peer_connection.cc(643)] Session: 8486606751739348516 is destroyed.
+[38372:25856:0718/112453.613:WARNING:spdy_session.cc(2979)] Received HEADERS for invalid stream 43
+[30860:36272:0718/112459.499:INFO:webrtc_voice_engine.cc(362)] WebRtcVoiceEngine::~WebRtcVoiceEngine
+[30860:36272:0718/112459.499:WARNING:webrtc_voice_engine.cc(683)] Attempting to stop aecdump when no audio processing module is present
+[30860:39132:0718/112459.518:INFO:peer_connection.cc(643)] Session: 7325859559443919204 is destroyed.
+[38372:25856:0718/112459.643:WARNING:spdy_session.cc(2979)] Received HEADERS for invalid stream 87
+[23576:38488:0718/121238.490:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[23576:38488:0718/121346.631:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[23576:38488:0718/140113.455:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+[23576:20068:0718/140419.462:INFO:CONSOLE(1)] "Uncaught (in promise) Error: ApiError: https://api.x.com/1.1/help/settings.json HTTP-401 codes:[32]", source: https://abs.twimg.com/responsive-web/client-web/main.8a31b56a.js (1)
+[38372:25336:0718/141728.669:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[23576:38488:0718/141728.747:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[23576:38488:0718/143258.787:ERROR:mcs_client.cc(749)] Received close command, resetting connection.
+[23576:38488:0718/160002.355:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[38372:25856:0718/160005.412:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -101
+[38372:25856:0718/160008.439:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -101
+[23576:38488:0718/160008.439:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -101
+[23576:38488:0718/190046.601:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[23576:38488:0718/194345.677:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[23576:38488:0719/095827.413:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+[38372:25856:0719/095828.353:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -101
+[38372:25856:0719/095828.359:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -103
+[23576:38488:0719/095828.360:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -103
+[38372:25856:0719/095828.457:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -101
+[38372:25856:0719/095828.541:ERROR:ssl_client_socket_impl.cc(878)] handshake failed; returned -1, SSL error code 1, net_error -101
+[23576:38488:0719/101414.404:VERBOSE1:media_stream_manager.cc(1527)] MSPL::OnSpeedLimitChange({this=00005A0C000E2D40}, {new_limit=27})
+[23576:38488:0719/101435.550:VERBOSE1:media_stream_manager.cc(1527)] MSPL::OnSpeedLimitChange({this=00005A0C000E2D40}, {new_limit=100})
+[38372:25856:0719/101523.636:VERBOSE1:network_delegate.cc(35)] NetworkDelegate::NotifyBeforeURLRequest: https://x.com/i/api/1.1/jot/client_event.json

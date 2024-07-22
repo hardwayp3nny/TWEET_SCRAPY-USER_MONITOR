@@ -1,0 +1,5 @@
+# twitter_scrapy_for_text
+twitter_scrapy_for_text
+借鉴了github上一位大佬的视频和图片的爬取，但对于我个人更需要爬取文字。
+做了点小改动，把爬的文字存入数据库，每三十分钟爬一次
+运行mutithread.py即可
